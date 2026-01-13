@@ -81,4 +81,8 @@ public policy, and applied data science problems involving grouped data.
 ## Repository contents
 
 - `report/` – Full written analysis (PDF)
-- `R/` – Data preparation, model fitting, posterior analysis, and
+- `R/` – Data preparation, model fitting, posterior analysis, and visualization scripts
+- `stan/` – Stan model definition
+- `data/` – Input datasets used in the analysis
+- `output/` – Generated results and figures (not tracked in version control)
+
